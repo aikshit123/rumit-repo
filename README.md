@@ -1,2 +1,2 @@
 # rumit-repo
-hello there my name is aikshit garg
+hello there
